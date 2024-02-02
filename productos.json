@@ -1,0 +1,205 @@
+[
+    {
+        "id": "kid-01",
+        "titulo": "Armario Montesori 01",
+        "imagen": "/img/kids/Armario Montessori.png",
+        "categoria": {
+            "nombre": "Kids",
+            "id": "kids"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "kid-02",
+        "titulo": "Cama Montessori individual 02",
+        "imagen": "./img/kids/Cama Montessori individual.png",
+        "categoria": {
+            "nombre": "Kids",
+            "id": "kids"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "kid-03",
+        "titulo": "Columpio 03",
+        "imagen": "./img/kids/Columpio.png",
+        "categoria": {
+            "nombre": "Kids",
+            "id": "kids"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "kid-04",
+        "titulo": "Cubo Montessori 04",
+        "imagen": "./img/kids/Cubo Montessori.png",
+        "categoria": {
+            "nombre": "Kids",
+            "id": "kids"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "kid-05",
+        "titulo": "Escalera Montessori 05",
+        "imagen": "./img/kids/Escalera Montessori.png",
+        "categoria": {
+            "nombre": "Kids",
+            "id": "kids"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "kid-06",
+        "titulo": "Escritorio Montessori madera 06",
+        "imagen": "./img/kids/Escritorio Montessori.png",
+        "categoria": {
+            "nombre": "Kids",
+            "id": "kids"
+        },
+        "precio": 14000
+    },
+ {
+            "id": "kid-11",
+            "titulo": "Mecedora madera 11",
+            "imagen": "./img/kids/Mecedora.png",
+            "categoria": {
+                "nombre": "Kids",
+                "id": "kids"
+            },
+            "precio": 10000
+        },
+        {
+            "id": "lampara-01",
+            "titulo": "Lampara Colgante Bamboo 01",
+            "imagen": "./img/lamparas/lampara colgante bamboo.png",
+            "categoria": {
+                "nombre": "Lamparas",
+                "id": "lamparas"
+            },
+            "precio": 10000
+        },
+        {
+            "id": "lampara-02",
+            "titulo": "Lampara Colgante Minimalista 02",
+            "imagen": "./img/lamparas/Lampara Colgante Minimalista.png",
+            "categoria": {
+                "nombre": "Lamparas",
+                "id": "lamparas"
+            },
+            "precio": 12000
+        },
+        {
+            "id": "lampara-03",
+            "titulo": "Lampara Colgante Nuve 03",
+            "imagen": "./img/lamparas/Lampara Colgante Nuve.png",
+            "categoria": {
+                "nombre": "Lamparas",
+                "id": "lamparas"
+            },
+            "precio": 12000
+        },
+        {
+            "id": "lampara-04",
+            "titulo": "Lampara pared blanca con detalles verdes 04",
+            "imagen": "./img/lamparas/Lampara pared blanca con detalles verdes.png",
+            "categoria": {
+                "nombre": "Lamparas",
+                "id": "lamparas"
+            },
+            "precio": 10000
+        },
+        {
+            "id": "lampara-05",
+            "titulo": "Lampara pared Jazmin 05",
+            "imagen": "./img/lamparas/Lampara pared Jazmin.png",
+            "categoria": {
+                "nombre": "Lamparas",
+                "id": "lamparas"
+            },
+            "precio": 10000
+        },
+            {
+                "id": "mueble-01",
+                "titulo": "Juego de 4 sillas y una mesa Nemo blanca 01",
+                "imagen": "./img/muebles/Juego de 4 sillas y una mesa blanca Nemo.png",
+                "categoria": {
+                    "nombre": "Muebles",
+                    "id": "muebles"
+                },
+                "precio": 30000
+            },
+            {
+                "id": "mueble-02",
+                "titulo": "Silla Ash Marron 02",
+                "imagen": "./img/muebles/Silla Ash Marron.png",
+                "categoria": {
+                    "nombre": "Muebles",
+                    "id": "muebles"
+                },
+                "precio": 10000
+            },
+            {
+                "id": "mueble-03",
+                "titulo": "Silla Rodano Exterior 03",
+                "imagen": "./img/muebles/Silla Rodano Exterior.png",
+                "categoria": {
+                    "nombre": "Muebles",
+                    "id": "muebles"
+                },
+                "precio": 10000
+            },
+            {
+                "id": "mueble-04",
+                "titulo": "Silla Tejida Alice Madera 04",
+                "imagen": "./img/muebles/Silla Tejida Alice Madera.png",
+                "categoria": {
+                    "nombre": "Muebles",
+                    "id": "muebles"
+                },
+                "precio": 10000
+            },
+            {
+                "id": "mueble-05",
+                "titulo": "Sillon Gris un cuerpo 05",
+                "imagen": "./img/muebles/Sillon gris 1 cuerpo.png",
+                "categoria": {
+                    "nombre": "Muebles",
+                    "id": "muebles"
+                },
+                "precio": 12000
+            },
+            {
+                "id": "mueble-06",
+                "titulo": "Sillon Gris tres cuerpos 06",
+                "imagen": "./img/muebles/Sillon gris 3 cuerpos.png",
+                "categoria": {
+                    "nombre": "Muebles",
+                    "id": "muebles"
+                },
+                "precio": 15000
+            },
+            {
+                "id": "mueble-07",
+                "titulo": "Sillon y Silla confort exterior 07",
+                "imagen": "./img/muebles/Sillon y Silla Exterior.png",
+                "categoria": {
+                    "nombre": "Muebles",
+                    "id": "muebles"
+                },
+                "precio": 16000
+            },
+            {
+                "id": "mueble-08",
+                "titulo": "Sillon celeste confort 08",
+                "imagen": "./img/muebles/Sillon celeste.png",
+                "categoria": {
+                    "nombre": "Muebles",
+                    "id": "muebles"
+                },
+                "precio": 18000
+            }
+        ]
+      
+        
+    
